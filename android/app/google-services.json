@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210859207737",
+    "project_id": "abotagri-e274b",
+    "storage_bucket": "abotagri-e274b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210859207737:android:59042c0ec41365110d31e8",
+        "android_client_info": {
+          "package_name": "com.mycompany.abotari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEsD7803phZIewc_Zyw80mJ-vJzA3k88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
